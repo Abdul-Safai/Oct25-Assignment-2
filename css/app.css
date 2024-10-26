@@ -1,0 +1,23 @@
+/* General Styles */
+body {
+ background: #f4f4f4; /* Light background for contrast */
+ font-family: 'Arial', sans-serif; /* Clean font for readability */
+ color: #333; /* Dark text color for better legibility */
+}
+
+/* Header Styles */
+h1, h2, h3 {
+ color: #2c3e50; /* Darker color for headers */
+ margin-bottom: 15px; /* Spacing below headers */
+}
+
+/* Button Styles */
+button {
+ background-color: #3498db; /* Blue background for buttons */
+ color: white; /* White text for contrast */
+ border: none; /* Remove default border */
+ border-radius: 5px; /* Rounded corners */
+ padding: 10px 15px; /* Padding for better touch target */
+ cursor: pointer; /* Pointer cursor on hover */
+ transition: background-color 0.3s; /* Smooth transition */
+}
